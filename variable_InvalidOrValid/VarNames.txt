@@ -1,0 +1,9 @@
+8
+sum-of-n
+Total
+avg
+course codes
+1number
+secondnumber
+two+value
+first-second
